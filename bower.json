@@ -1,0 +1,23 @@
+{
+  "name": "weather",
+  "authors": [
+    "Felipe Vasconcelos <felipe.vasconcelos@live.com>"
+  ],
+  "description": "Inspired on https://dribbble.com/shots/2140138-Day-010-Weather-Widget",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "weather-icons": "^2.0.10",
+    "epoch": "^0.8.4"
+  }
+}
