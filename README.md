@@ -1,5 +1,5 @@
 ## Weather Widget
-Inspired in [Weather Widget] by [Henrik Nilsson]
+Inspired on [Weather Widget] by [Henrik Nilsson]
 
 ---
 ### Install
