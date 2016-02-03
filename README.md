@@ -1,7 +1,7 @@
 ## Weather Widget
 Inspired on [Weather Widget] by [Henrik Nilsson]
 
-(https://d13yacurqjgara.cloudfront.net/users/22569/screenshots/2140138/weather_100.png)
+![Widget](https://d13yacurqjgara.cloudfront.net/users/22569/screenshots/2140138/weather_100.png)
 
 Checkout at: [Online Version]
 
