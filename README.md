@@ -9,7 +9,7 @@ Checkout at: [Online Version]
 
 ### Install
 
-Install dependecies via bower.
+Install dependecies
 
 ```sh
 bower install
