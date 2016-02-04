@@ -17,7 +17,7 @@ gulp.task('sass:watch', function() {
 gulp.task('webserver', function() {
     return gulp.src('.')
         .pipe(webserver({
-            host: '172.24.6.145',
+            host: 'localhost',
             port: '8080',
             livereload: true,
             directoryListing: false
