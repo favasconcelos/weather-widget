@@ -20,8 +20,8 @@ To run:
 ```sh
 npm install
 gulp
-open browser at: http://localhost:8080/
 ```
+open browser at: [http://localhost:8080/](http://localhost:8080/)
 
 ---
 
